@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "dotenv-webpack": "^8.1.0",
+    "firebase": "^10.11.1",
+    "firebase-tools": "^13.8.2"
+  },
+  "devDependencies": {
+    "webpack-cli": "^5.1.4"
+  }
+}
